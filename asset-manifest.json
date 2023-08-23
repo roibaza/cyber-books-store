@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cyber-books-store/static/css/main.e4b7a756.css",
+    "main.js": "/cyber-books-store/static/js/main.683fba0e.js",
+    "index.html": "/cyber-books-store/index.html",
+    "main.e4b7a756.css.map": "/cyber-books-store/static/css/main.e4b7a756.css.map",
+    "main.683fba0e.js.map": "/cyber-books-store/static/js/main.683fba0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4b7a756.css",
+    "static/js/main.683fba0e.js"
+  ]
+}
