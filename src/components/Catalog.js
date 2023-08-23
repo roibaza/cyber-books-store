@@ -15,8 +15,6 @@ const Catalog = ({pageSize, debounceSearchTerm}) => {
         setIsError
     } = useBooksStore({pageSize, debounceSearchTerm});
 
-    console.log("catalogData", catalogData);
-
     const handleRetry = () => {
         handleFetch();
         setIsError(false);

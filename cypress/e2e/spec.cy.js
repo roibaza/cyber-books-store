@@ -20,7 +20,7 @@ describe('Test Cyber Books Store App', () => {
 
     it("Test Page Size Select", () => {
         cy.get('.MuiInputBase-root').click()
-        //
+        
         cy.get('.MuiButtonBase-root').first().next().next().click();
 
         cy.get('.container', {timeout: 6000}).should('have.length', "25");
