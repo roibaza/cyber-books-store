@@ -1,8 +1,8 @@
 {
-  "name": "cyber-book-store",
+  "name": "cyber-books-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://roibaza.github.io/cyber-book-store",
+  "homepage": "https://roibaza.github.io/cyber-books-store",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
